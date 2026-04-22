@@ -79,4 +79,4 @@ Domain yang dipilih adalah toko buku dengan 3 entitas utama: kategori buku, buku
 
 ## Video Presentasi
 
-https://youtu.be/-DqUz3-clJU
+[https://youtu.be/9I_H9OnOw4A](https://youtu.be/9I_H9OnOw4A)
