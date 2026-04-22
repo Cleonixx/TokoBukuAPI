@@ -1,0 +1,6 @@
+@TokoBukuAPI_HostAddress = http://localhost:5009
+
+GET {{TokoBukuAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
